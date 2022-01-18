@@ -1,0 +1,6 @@
+.button {
+  /*Change the width as much as you like, but make sure 
+    margin-left and margin-right + width = 100%*/
+  justify-content: center;
+  align-items: center;
+}
